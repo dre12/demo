@@ -1,10 +1,4 @@
 {
-  "msgId": "91b83189-01a1-4604-983f-70661905894c",
-  "msgIdRef": "91b83189-01a1-4604-983f-70661905894c",
-  "type" : "plantExecution",
-    "id" : "3587s56a4747",
-    "initatorCode" : "HE-DY",
-    "productName" : "SpaceFarm-34-BlackHole-Powerplants",
     "quantity" : 100,
     "quality" : "Dyson-sphere Star",
     "plantID" : "Blackhole33",
