@@ -2,7 +2,6 @@
   "msgId": "91b83189-01a1-4604-983f-70661905894c",
   "msgIdRef": "91b83189-01a1-4604-983f-70661905894c",
   "type" : "plantExecution",
-  "payload : {
     "id" : "3587s56a4747",
     "initatorCode" : "HE-DY",
     "productName" : "SpaceFarm-34-BlackHole-Powerplants",
@@ -11,5 +10,4 @@
     "plantID" : "Blackhole33",
     "deliveryStart": "2029-01-11T15:57:46.000Z",
     "deliveryEnd": "2029-01-12T15:57:46.000Z"
- }
 }
